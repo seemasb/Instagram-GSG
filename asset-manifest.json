@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Instagram-GSG/static/css/main.e4953a67.chunk.css",
+    "main.js": "/Instagram-GSG/static/js/main.6748242c.chunk.js",
+    "main.js.map": "/Instagram-GSG/static/js/main.6748242c.chunk.js.map",
+    "runtime-main.js": "/Instagram-GSG/static/js/runtime-main.fca29ad3.js",
+    "runtime-main.js.map": "/Instagram-GSG/static/js/runtime-main.fca29ad3.js.map",
+    "static/js/2.21fe4b4f.chunk.js": "/Instagram-GSG/static/js/2.21fe4b4f.chunk.js",
+    "static/js/2.21fe4b4f.chunk.js.map": "/Instagram-GSG/static/js/2.21fe4b4f.chunk.js.map",
+    "static/js/3.2b631dce.chunk.js": "/Instagram-GSG/static/js/3.2b631dce.chunk.js",
+    "static/js/3.2b631dce.chunk.js.map": "/Instagram-GSG/static/js/3.2b631dce.chunk.js.map",
+    "index.html": "/Instagram-GSG/index.html",
+    "static/css/main.e4953a67.chunk.css.map": "/Instagram-GSG/static/css/main.e4953a67.chunk.css.map",
+    "static/js/2.21fe4b4f.chunk.js.LICENSE.txt": "/Instagram-GSG/static/js/2.21fe4b4f.chunk.js.LICENSE.txt",
+    "static/media/PROFILE.b3ac92c5.jpg": "/Instagram-GSG/static/media/PROFILE.b3ac92c5.jpg",
+    "static/media/ii1.6163c1e4.jpg": "/Instagram-GSG/static/media/ii1.6163c1e4.jpg",
+    "static/media/ii2.5abddffa.jpg": "/Instagram-GSG/static/media/ii2.5abddffa.jpg",
+    "static/media/image.34a17316.jpg": "/Instagram-GSG/static/media/image.34a17316.jpg",
+    "static/media/image2.ef092a84.jpg": "/Instagram-GSG/static/media/image2.ef092a84.jpg",
+    "static/media/image3.72fdac08.jpg": "/Instagram-GSG/static/media/image3.72fdac08.jpg",
+    "static/media/instagram-logo.b5328791.png": "/Instagram-GSG/static/media/instagram-logo.b5328791.png",
+    "static/media/p1.71d8f37b.jpg": "/Instagram-GSG/static/media/p1.71d8f37b.jpg",
+    "static/media/p3.7700f475.jpg": "/Instagram-GSG/static/media/p3.7700f475.jpg",
+    "static/media/p4.1ac7d87d.jpg": "/Instagram-GSG/static/media/p4.1ac7d87d.jpg",
+    "static/media/p6.d0684952.jpg": "/Instagram-GSG/static/media/p6.d0684952.jpg",
+    "static/media/pp1.cf6d6b5f.jpg": "/Instagram-GSG/static/media/pp1.cf6d6b5f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fca29ad3.js",
+    "static/js/2.21fe4b4f.chunk.js",
+    "static/css/main.e4953a67.chunk.css",
+    "static/js/main.6748242c.chunk.js"
+  ]
+}
