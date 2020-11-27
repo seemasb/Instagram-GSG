@@ -1,0 +1,43 @@
+.story_item{
+    display: flex;
+    flex-direction: column;
+}
+
+.flex1{
+    display: flex;
+}
+.flex2{
+    display: flex;
+    gap: 35px;
+    position: relative;
+    left: 20%;
+}
+
+.img2{
+    /* width: 127px;
+    height: 73px; */
+    width: 117px;
+    height: 63px;
+}
+
+.img1{
+    /* width:70px;
+    height: 70px; */
+    width:60px;
+    height: 60px;
+    border-radius: 100%;
+    border: 3px solid rgb(255, 255, 255);
+    position: relative;
+    left: 30px;
+}
+
+.span1{
+    color: rgb(119, 117, 119);
+    font-size: 8.5pt;
+}
+
+.span2{
+    color: rgb(185, 182, 185);
+    font-size: 8.5pt;
+
+}

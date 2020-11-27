@@ -1,0 +1,20 @@
+#insta{
+    width: 29px;
+    height: 28px;
+}
+
+.logo_container{
+    display: flex;
+    gap: 20px;
+    position: relative;
+    top: 31px;
+    left: 22px;
+}
+
+#instaword{
+    width: 130px;
+    height: 55px;
+    position: relative;
+    left: -14px;
+    top: -11px;
+}

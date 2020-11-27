@@ -1,0 +1,76 @@
+.one_card{
+    display: flex;
+    flex-direction: column;
+    /* width: 206px;
+    height: 241px; */
+    width: 220px;
+    height: 241px;
+    /* width: 250px; */
+    /* height: 261px; */
+    /* background-color: turquoise; */
+    position: relative;
+    left: 400px;
+    top: -100px;
+    box-shadow: 4px 4px 8px  #8888887a;
+
+}
+
+
+.profile_card{
+    display: flex;
+    gap: 17px;
+    position: relative;
+}
+
+.profile_img_card{
+    border-radius: 100%;
+    border: 3px solid #f73e60;
+    width: 37px;
+    height: 34px;
+    margin-top: 8px;
+    margin-left: 4%;
+    margin-bottom: 5px;
+}
+
+.pink_span_card{
+    color: #868686;
+    /* color: #c0bebe; */
+    font-size: 8pt;
+    width: 150px;
+}
+
+.light_span_card{
+   color: rgb(200, 197, 197); 
+}
+
+.spanComtainer_card{
+    display: flex;
+    flex-direction: column;
+    font-size: 7pt;
+    margin-top: 15px;
+    width: 110px;
+}
+
+.insta_image{
+    /* width: 206px; */
+    width: 220px;
+    height: 145px;
+}
+
+.dots{
+    margin-left: 0%;
+    margin-top: 5%;
+}
+
+.bottom{
+    display: flex;
+    gap: 20px;
+    margin-top:4.5px;
+    margin-left:12px;
+}
+
+.tag{
+    width: 19px;
+    height: 19px;
+    margin-left: 30%;
+}

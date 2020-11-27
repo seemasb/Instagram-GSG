@@ -1,0 +1,29 @@
+.StoryContainer{
+    display: flex;
+    position: relative;
+    top: -1085px;
+    left: 270px;
+}
+
+.sotycircle{
+    width:60px;
+    height: 60px;
+    border-radius: 100%;
+    background-color: #f73e60;
+    text-align: center;
+}
+
+.add{
+    margin-top: 21px;
+}
+
+.columflex{
+    display: flex;
+    flex-direction: column;
+}
+.addstory{
+    font-size: 9pt;
+    color: rgb(190, 187, 190);
+    margin-left: 4px;
+    margin-top: 3px;
+}

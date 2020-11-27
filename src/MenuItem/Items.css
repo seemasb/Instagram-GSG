@@ -1,0 +1,32 @@
+.Item_div{
+    display: flex;
+    gap: 25px;
+    margin-left: 26px;
+    margin-top: 25px;
+}
+
+.Item_div span {
+    color: #9a9999;
+    font-size: 13pt;
+    position: relative;
+    top: 2px;
+}
+
+#items_container{
+    margin-top: 84px;
+
+}
+
+.ItemHome_div{
+    background-color: rgba(226, 224, 224, 0.274);
+    height: 50px;
+    width: 220px;
+    position: relative;
+    top: -300px;
+}
+
+.pinkhomeitem{
+    height: 50px;
+    width: 5px;
+    background-color: #f73e60;
+}

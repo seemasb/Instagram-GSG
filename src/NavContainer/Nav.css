@@ -1,0 +1,46 @@
+#nav_container{
+
+    display: flex;
+    background-color: white;
+    width: 843px;
+    height: 68px;
+    position: relative;
+    left: 220px;
+    box-shadow: -20px .5px 10px  #afacac52;
+
+}
+
+.profile{
+    display: flex;
+    gap: 17px;
+    position: relative;
+    left: 255px;
+}
+
+.profile_img{
+    border-radius: 100%;
+    width: 47px;
+    height: 47px;
+    margin-top: 8px;
+}
+
+.pink_span{
+    color: #f73e60;
+}
+
+.light_span{
+   color: rgb(218,218,218); 
+}
+
+.spanComtainer{
+    display: flex;
+    flex-direction: column;
+    font-size: 7pt;
+    margin-top: 15px;
+}
+
+.camera{
+    position: relative;
+    top: 15px;
+    left: 35px;
+}
